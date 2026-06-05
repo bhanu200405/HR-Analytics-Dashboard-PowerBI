@@ -40,9 +40,9 @@ This project analyzes employee attrition and workforce trends using Power BI and
 
 ### Dashboard Screenshot 1
 
-![Dashboard Screenshot 1](Screenshot1.png.png)
+![Dashboard Screenshot 1](Screenshot1.png)
 
 ### Dashboard Screenshot 2
 
-![Dashboard Screenshot 2](Screenshot2.png.png)
+![Dashboard Screenshot 2](Screenshot2.png)
 
