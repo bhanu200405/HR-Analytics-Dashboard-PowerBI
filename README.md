@@ -1,42 +1,56 @@
-# HR Analytics Dashboard
+# HR Analytics Dashboard (Power BI)
 
-## Project Overview
+## 📊 Project Overview
 
-This project analyzes employee attrition and workforce trends using Power BI and DAX.
+This project analyzes employee attrition data using Power BI to identify key workforce trends and help HR teams improve employee retention strategies.
 
-## Dashboard Features
+The dashboard provides insights into employee demographics, job roles, salary distribution, and attrition patterns.
+
+---
+
+## 🎯 Business Problem
+
+Organizations often face challenges in understanding why employees leave. This project helps answer:
+
+* Which departments have the highest attrition?
+* What age group is most likely to leave?
+* How does salary affect employee retention?
+* Which job roles are most impacted?
+
+---
+
+## 📈 Key Insights
+
+* Sales department shows the highest attrition rate.
+* Employees aged 26–35 are the most likely to leave.
+* Lower salary groups show higher attrition trends.
+* Employees with fewer years at the company tend to leave earlier.
+
+---
+
+## 📊 Dashboard Features
 
 * Total Employees KPI
-* Attrition Count
-* Attrition Rate
-* Average Age
-* Average Salary
-* Attrition by Department
-* Attrition by Job Role
-* Attrition by Age Group
-* Years at Company Analysis
+* Attrition Rate Analysis
+* Department-wise Attrition
+* Job Role Analysis
+* Age Group Distribution
+* Salary Analysis
+* Tenure (Years at Company) Analysis
 * Interactive Slicers
 
-## Tools Used
+---
+
+## 🛠️ Tools Used
 
 * Power BI
-* DAX
-* Data Analysis
+* DAX (Data Analysis Expressions)
+* Data Cleaning
 * Data Visualization
 
-## Key Insights
+---
 
-* Identified departments with the highest employee attrition.
-* Analyzed attrition trends across age groups and job roles.
-* Created KPI-based reporting for HR decision-making.
-
-## Files Included
-
-* HR_Analytics_Dashboard.pbix
-* Dashboard Screenshots
-* README Documentation
-
-## Dashboard Preview
+## 🖼️ Dashboard Preview
 
 ### Screenshot 1
 
@@ -46,4 +60,8 @@ This project analyzes employee attrition and workforce trends using Power BI and
 
 ![HR Dashboard 2](Screenshot2.png)
 
+---
 
+## 📌 Outcome
+
+This dashboard helps HR teams make data-driven decisions to improve employee retention and workforce planning.
